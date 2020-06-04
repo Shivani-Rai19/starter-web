@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 How to setup a git project
 
+#Git and GitHub Training
+
+Adding git rebase lecture
+
 # Contributor
 
 fork the repor and raise pull request.

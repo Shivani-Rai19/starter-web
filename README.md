@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Introduction
 
 How to setup a git project
+
+## Git Comparison
+
+Adding git comparison lecture

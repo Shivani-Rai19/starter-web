@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 How to setup a git project
 
+# Contributor
+
+fork the repor and raise pull request.
+
 ## Git Comparison
 
 Adding git comparison lecture

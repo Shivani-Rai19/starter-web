@@ -11,6 +11,8 @@
 	
 	# doing some changes in local
 	
+	# Added important notes about git stash
+	
 
 # TECHNOLOGY COLOPHON
 

@@ -14,6 +14,8 @@ How to setup a git project
 
 Adding git rebase lecture
 
+Lot of lecture is still coming on 
+
 # Contributor
 
 fork the repor and raise pull request.
